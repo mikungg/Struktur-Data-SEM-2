@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mikaqueue.h": "c",
+        "stdio.h": "c"
+    }
+}

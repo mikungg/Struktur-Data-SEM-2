@@ -1,0 +1,19 @@
+Invalid vote: 8
+Invalid vote: 6
+Invalid vote: 7
+
+Number of voters: 39
+Number of valid votes: 36
+Number of spoilt votes: 3
+
+Candidate Score
+
+Jesse Robinson    9
+Muhammad Iqbal    9
+Muhammad Alif     6
+Revy Pranama      6
+Valentino Reswara   6
+
+The winner(s)
+Jesse Robinson
+Muhammad Iqbal

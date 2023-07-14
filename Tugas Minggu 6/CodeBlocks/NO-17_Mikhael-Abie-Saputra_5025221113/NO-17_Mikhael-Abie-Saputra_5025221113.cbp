@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NO-17_Mikhael-Abie-Saputra_5025221113" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NO-17_Mikhael-Abie-Saputra_5025221113" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NO-17_Mikhael-Abie-Saputra_5025221113" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="createQueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="createStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dequeue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enqueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isEmpty.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="push.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue2tostack.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

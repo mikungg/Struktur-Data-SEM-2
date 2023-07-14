@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "header.h": "c",
+        "stdio.h": "c",
+        "initializename.h": "c",
+        "processvotes.h": "c",
+        "printresults.h": "c",
+        "sortbyname.h": "c"
+    }
+}

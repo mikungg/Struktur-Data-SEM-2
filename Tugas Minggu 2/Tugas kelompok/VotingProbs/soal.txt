@@ -1,0 +1,7 @@
+TUGAS 3 -> kelompok of 3 orang pengumpulannya 1 orang aja
+kerjain "a voting problem" 
+terus nanti disotring hasilnya 
+sesuai sama number of votesnya
+kandidatnya 5 aja
+namanya pake nama yang di kelas kita irl
+total votenya ada 39 anak
